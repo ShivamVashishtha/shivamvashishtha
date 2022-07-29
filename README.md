@@ -3,7 +3,8 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShivamVashishtha&labelColor=%23697689&countColor=%23f47373)
 [![Github](https://img.shields.io/github/followers/ShivamVashishtha?label=Follow&style=social)](https://github.com/ShivamVashishtha)
 
 <div size='20px'> Hi! My name is Shivam. Thank You for taking the time to view my GitHub Profile :smile: 
