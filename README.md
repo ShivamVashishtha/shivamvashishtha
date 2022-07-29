@@ -3,7 +3,7 @@
 </p>
 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShivamVashishtha&countColor=%232ccce4)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShivamVashishtha&countColor=%23263759&style=plastic)
 [![Github](https://img.shields.io/github/followers/ShivamVashishtha?label=Follow&style=social)](https://github.com/ShivamVashishtha)
 
 <div size='20px'> Hi! My name is Shivam. Thank You for taking the time to view my GitHub Profile :smile: 
