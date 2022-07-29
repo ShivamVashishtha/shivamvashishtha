@@ -48,8 +48,7 @@
 [![Shivam's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ShivamVashishtha&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Shivam's Github Stats](https://github-readme-stats.vercel.app/api?username=ShivamVashishtha&show_icons=true&theme=tokyonight) | ![Shivam's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
 
 
 <br>
